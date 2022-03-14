@@ -1,5 +1,5 @@
 {
-  "homepage": "http://kk1230t.github.io/react",
+  "homepage": "http://kk1230t.github.io/",
   "name": "react_app",
   "version": "0.1.0",
   "private": true,
@@ -34,6 +34,7 @@
     "jest-resolve": "^27.4.2",
     "jest-watch-typeahead": "^1.0.0",
     "mini-css-extract-plugin": "^2.4.5",
+    "node-sass": "^7.0.1",
     "postcss": "^8.4.4",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^6.2.1",
@@ -86,7 +87,9 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "fibers": "^5.0.1",
+    "gh-pages": "^3.2.3",
+    "sass": "^1.49.9"
   },
   "jest": {
     "roots": [
