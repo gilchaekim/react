@@ -6,7 +6,7 @@ export default {
   component: Text,
 };
 
-const STORY_TEXT = "I love 1111111111111111111111111!";
+const STORY_TEXT = "I love !";
 
 export const Default = () => <Text>{STORY_TEXT}</Text>;
 
