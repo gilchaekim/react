@@ -26,40 +26,40 @@ function CoButton(props) {
 export default CoButton;
 
 
-CoButton.propTypes = {
-    /**
-     * 버튼 사이즈 [large, ]
-    */
-    size:PropTypes.string,
-    /**
-     * test
-    */
-    shape:PropTypes.string
-    /**
-     * test*/,
-    color:PropTypes.string
-    /**
-     * test
-    */,
-    icon:PropTypes.string,
-    /**
-     * test
-    */
-    block:PropTypes.bool,
-    /**
-     * test
-    */
-    danger:PropTypes.bool,
-    /**
-     * test
-    */
-    disabled:PropTypes.bool,
-    /**
-     * test
-    */
-    ghost:PropTypes.bool,
-    /**
-     * test
-    */
-    loading:PropTypes.bool,
-};
+// CoButton.propTypes = {
+//     /**
+//      * 버튼 사이즈 [large, ]
+//     */
+//     size:PropTypes.string,
+//     /**
+//      * test
+//     */
+//     shape:PropTypes.string
+//     /**
+//      * test*/,
+//     color:PropTypes.string
+//     /**
+//      * test
+//     */,
+//     icon:PropTypes.string,
+//     /**
+//      * test
+//     */
+//     block:PropTypes.bool,
+//     /**
+//      * test
+//     */
+//     danger:PropTypes.bool,
+//     /**
+//      * test
+//     */
+//     disabled:PropTypes.bool,
+//     /**
+//      * test
+//     */
+//     ghost:PropTypes.bool,
+//     /**
+//      * test
+//     */
+//     loading:PropTypes.bool,
+// };
